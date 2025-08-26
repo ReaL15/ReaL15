@@ -4,7 +4,7 @@
 
 ### 💫 About Me
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=DA70D6&width=600&lines=⚡+Fokus+di+Laravel+(Backend);⚛️+Next.js+(Frontend);📱+Kotlin+%26+Android+(Mobile);✨+Suka+UI/UX+%26+bikin+produk+impactful&center=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=DA70D6&width=600&lines=⚡+Fokus+di+Laravel+(Backend);⚛️+Next.js+(Frontend);📱+Kotlin+%26+Android+(Mobile);✨+UI/UX+%26+bikin+produk+impactful&center=true" />
 </p>
 
 ---
@@ -14,17 +14,14 @@
 
 <table>
 <tr>
-<td align="center">
-  <!-- Total Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dhafaal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=DA70D6&icon_color=DA70D6&text_color=ffffff&bg_color=1f0f2f" />
+<td align="center" bgcolor="#1f0f2f" style="border-radius:15px;padding:10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhafaal&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=DA70D6&icon_color=DA70D6&text_color=ffffff&bg_color=1f0f2f" />
 </td>
-<td align="center">
-  <!-- Streak Stats -->
+<td align="center" bgcolor="#1f0f2f" style="border-radius:15px;padding:10px;">
   <img src="https://streak-stats.demolab.com?user=dhafaal&theme=purple-neon&hide_border=true" />
 </td>
-<td align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhafaal&layout=compact&theme=tokyonight&hide_border=true&title_color=DA70D6&text_color=ffffff&bg_color=1f0f2f" />
+<td align="center" bgcolor="#1f0f2f" style="border-radius:15px;padding:10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhafaal&layout=compact&theme=radical&hide_border=true&title_color=DA70D6&text_color=ffffff&bg_color=1f0f2f" />
 </td>
 </tr>
 </table>
@@ -55,7 +52,7 @@
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhafaal&theme=react-dark&bg_color=1f0f2f&line=DA70D6&point=DA70D6&color=DA70D6&title_color=DA70D6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhafaal&theme=radical&bg_color=1f0f2f&line=DA70D6&point=DA70D6&color=DA70D6&title_color=DA70D6&area=true" />
 </p>
 
 ---
