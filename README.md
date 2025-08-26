@@ -8,8 +8,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Dhafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhafaalvaro&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhafaalvaro&layout=compact&theme=tokyonight)
+![Dhafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=real15&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=real15&layout=compact&theme=tokyonight)
 
 ---
 
@@ -23,7 +23,7 @@
 
 ### 🌐 Connect with Me
 - [LinkedIn](https://linkedin.com/in/dhafa)  
-- [Email](mailto:dhafa@example.com)  
+- [Email](dhafaal.a@Gmail.com)  
 
 ---
 
