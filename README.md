@@ -1,12 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=220&section=header&text=Hi,%20I'm%20Dhafa%20&fontSize=45&fontColor=ffffff&fontAlignY=30&desc=🚀%20Designer%20%7C%20Fullstack%20Developer&descAlignY=55&descAlign=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=220&section=header&text=Hi,%20I'm%20Dhafa%20👋&fontSize=45&fontColor=ffffff&fontAlignY=30&desc=🚀%20Designer%20%7C%20Fullstack%20Developer&descAlignY=55&descAlign=50&animation=fadeIn)
 
 ---
 
 ### 💫 About Me
-- ⚡ Fokus di **Laravel (Backend)**
-- ⚛️ **Next.js (Frontend)**
-- 📱 **Kotlin & Android (Mobile)**
-- ✨ Suka ngulik **UI/UX** & bikin produk yang impactful
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF0080&width=600&lines=⚡+Fokus+di+Laravel+(Backend);⚛️+Next.js+(Frontend);📱+Kotlin+%26+Android+(Mobile);✨+Suka+UI/UX+%26+bikin+produk+impactful&center=true" />
+</p>
 
 ---
 
@@ -15,7 +14,7 @@
 
 ![Dhafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhafaal&show_icons=true&theme=radical&hide_border=true&count_private=true)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dhafaal&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)  
+![GitHub Streak](https://streak-stats.demolab.com?user=dhafaal&theme=radical&hide_border=true)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhafaal&layout=compact&theme=radical&hide_border=true)
 
