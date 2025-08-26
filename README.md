@@ -12,11 +12,24 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-![Dhafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhafaal&show_icons=true&theme=radical&hide_border=true&count_private=true)  
+<!-- Stats row -->
+<table>
+<tr>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhafaal&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+</td>
+<td align="center">
+  <img src="https://streak-stats.demolab.com?user=dhafaal&theme=radical&hide_border=true" />
+</td>
+</tr>
+</table>
 
-![Streak](https://github-readme-stats.vercel.app/api?username=dhafaal&show_icons=true&theme=radical&count_private=true)
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhafaal&layout=compact&theme=radical&hide_border=true)
+<!-- Top Languages -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhafaal&layout=compact&theme=radical&hide_border=true" />
+</div>
 
 </div>
 
