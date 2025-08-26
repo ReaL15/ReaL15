@@ -53,8 +53,3 @@
 </p>
 
 ---
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=6a0dad&height=140&section=footer" />
-</p>
