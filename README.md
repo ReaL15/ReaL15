@@ -21,7 +21,7 @@
 </td>
 <td align="center" bgcolor="#1f0f2f" style="border-radius:15px;padding:10px;transition: transform 0.3s;">
   <a href="https://streak-stats.demolab.com/?user=dhafaal" target="_blank">
-    <img src="https://streak-stats.demolab.com?user=dhafaal&theme=purple-neon&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=dhafaal&theme=purple-neon&hide_border=true" />
   </a>
 </td>
 <td align="center" bgcolor="#1f0f2f" style="border-radius:15px;padding:10px;transition: transform 0.3s;">
