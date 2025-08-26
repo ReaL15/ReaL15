@@ -12,24 +12,22 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-<!-- Stats row -->
 <table>
 <tr>
 <td align="center">
+  <!-- Total Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=dhafaal&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 </td>
 <td align="center">
+  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=dhafaal&theme=radical&hide_border=true" />
+</td>
+<td align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhafaal&layout=compact&theme=radical&hide_border=true" />
 </td>
 </tr>
 </table>
-
-<br>
-
-<!-- Top Languages -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhafaal&layout=compact&theme=radical&hide_border=true" />
-</div>
 
 </div>
 
