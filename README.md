@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=200&section=header&text=Hi%20I'm%20Dhafa%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
-
-<h3 align="center">🚀 Designer & Fullstack Developer</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=220&section=header&text=Hi,%20I'm%20Dhafa%20&fontSize=45&fontColor=ffffff&fontAlignY=30&desc=🚀%20Designer%20%7C%20Fullstack%20Developer&descAlignY=55&descAlign=50&animation=fadeIn)
 
 ---
 
@@ -8,7 +6,7 @@
 - ⚡ Fokus di **Laravel (Backend)**
 - ⚛️ **Next.js (Frontend)**
 - 📱 **Kotlin & Android (Mobile)**
-- ✨ Suka ngulik UI/UX & membuat produk yang impactful
+- ✨ Suka ngulik **UI/UX** & bikin produk yang impactful
 
 ---
 
@@ -17,7 +15,7 @@
 
 ![Dhafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhafaal&show_icons=true&theme=radical&hide_border=true&count_private=true)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dhafaal&theme=radical&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=dhafaal&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhafaal&layout=compact&theme=radical&hide_border=true)
 
@@ -40,16 +38,16 @@
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-dhafa-alvaro-13b7aa235/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="dhafaal.a@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:dhafaal.a@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhafaal&theme=radical&bg_color=141321&hide_border=true&line=ff4b81&color=ff4b81" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhafaal&theme=radical&bg_color=141321&hide_border=true&line=ff4b81&point=ff4b81&color=ff4b81&title_color=ff0080" />
 </p>
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=140&section=footer)
