@@ -21,7 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dhafaal&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=DA70D6&icon_color=DA70D6&text_color=ffffff&bg_color=1f0f2f" />
 </td>
 <td align="center">
-  <img src="https://streak-stats.demolab.com/?user=dhafaal&background=1f0f2f&stroke=DA70D6&ring=9b59b6&fire=8e44ad&currStreakNum=DA70D6&currStreakLabel=DA70D6&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=dhafaal&background=1f0f2f&stroke=DA70D6&ring=9b59b6&fire=8e44ad&currStreakNum=DA70D6&currStreakLabel=DA70D6&hide_border=true&text_color=ffffff" />
 </td>
 <td align="center">
   <!-- Top Languages -->
