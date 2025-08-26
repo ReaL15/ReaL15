@@ -14,7 +14,7 @@
 
 ![Dhafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhafaal&show_icons=true&theme=radical&hide_border=true&count_private=true)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dhafaal&theme=radical&hide_border=true)  
+![Streak](https://github-readme-stats.vercel.app/api?username=dhafaal&show_icons=true&theme=radical&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhafaal&layout=compact&theme=radical&hide_border=true)
 
